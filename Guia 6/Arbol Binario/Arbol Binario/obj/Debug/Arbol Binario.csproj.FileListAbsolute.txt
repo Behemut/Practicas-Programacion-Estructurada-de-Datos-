@@ -1,0 +1,19 @@
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csprojAssemblyReference.cache
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.cache
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.CoreCompileInputs.cache
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csprojAssemblyReference.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Form1.resources
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.CoreCompileInputs.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb

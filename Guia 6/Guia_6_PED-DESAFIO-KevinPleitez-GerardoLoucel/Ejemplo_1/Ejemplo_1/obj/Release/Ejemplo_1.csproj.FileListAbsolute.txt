@@ -1,0 +1,4 @@
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\obj\Release\Ejemplo_1.btnPreOrden.resources
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\obj\Release\Ejemplo_1.Properties.Resources.resources
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\obj\Release\Ejemplo_1.csproj.GenerateResource.cache
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\obj\Release\Ejemplo_1.csproj.CoreCompileInputs.cache

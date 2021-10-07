@@ -1,0 +1,30 @@
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejemplo 2\Ejemplo 2\bin\Debug\Ejemplo 2.exe.config
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejemplo 2\Ejemplo 2\bin\Debug\Ejemplo 2.exe
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejemplo 2\Ejemplo 2\bin\Debug\Ejemplo 2.pdb
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.csprojAssemblyReference.cache
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo_2.Form1.resources
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo_2.Properties.Resources.resources
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.csproj.GenerateResource.cache
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.csproj.CoreCompileInputs.cache
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.exe
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.pdb
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-Guia 4\Ejemplo 2\bin\Debug\Ejemplo 2.exe.config
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-Guia 4\Ejemplo 2\bin\Debug\Ejemplo 2.exe
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-Guia 4\Ejemplo 2\bin\Debug\Ejemplo 2.pdb
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-Guia 4\Ejemplo 2\obj\Debug\Ejemplo 2.csprojAssemblyReference.cache
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-Guia 4\Ejemplo 2\obj\Debug\Ejemplo_2.Form1.resources
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-Guia 4\Ejemplo 2\obj\Debug\Ejemplo_2.Properties.Resources.resources
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-Guia 4\Ejemplo 2\obj\Debug\Ejemplo 2.csproj.GenerateResource.cache
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-Guia 4\Ejemplo 2\obj\Debug\Ejemplo 2.csproj.CoreCompileInputs.cache
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-Guia 4\Ejemplo 2\obj\Debug\Ejemplo 2.exe
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-Guia 4\Ejemplo 2\obj\Debug\Ejemplo 2.pdb
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-GUIA 4 TEST\Ejemplo 2\bin\Debug\Ejemplo 2.exe.config
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-GUIA 4 TEST\Ejemplo 2\bin\Debug\Ejemplo 2.exe
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-GUIA 4 TEST\Ejemplo 2\bin\Debug\Ejemplo 2.pdb
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-GUIA 4 TEST\Ejemplo 2\obj\Debug\Ejemplo 2.csprojAssemblyReference.cache
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-GUIA 4 TEST\Ejemplo 2\obj\Debug\Ejemplo_2.Form1.resources
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-GUIA 4 TEST\Ejemplo 2\obj\Debug\Ejemplo_2.Properties.Resources.resources
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-GUIA 4 TEST\Ejemplo 2\obj\Debug\Ejemplo 2.csproj.GenerateResource.cache
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-GUIA 4 TEST\Ejemplo 2\obj\Debug\Ejemplo 2.csproj.CoreCompileInputs.cache
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-GUIA 4 TEST\Ejemplo 2\obj\Debug\Ejemplo 2.exe
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejemplo 2-GUIA 4 TEST\Ejemplo 2\obj\Debug\Ejemplo 2.pdb

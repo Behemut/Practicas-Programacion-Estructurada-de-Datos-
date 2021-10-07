@@ -1,0 +1,7 @@
+E:\UDB\Programacion con estructura de datos\Guia 5\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+E:\UDB\Programacion con estructura de datos\Guia 5\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe
+E:\UDB\Programacion con estructura de datos\Guia 5\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.pdb
+E:\UDB\Programacion con estructura de datos\Guia 5\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csprojAssemblyReference.cache
+E:\UDB\Programacion con estructura de datos\Guia 5\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.CoreCompileInputs.cache
+E:\UDB\Programacion con estructura de datos\Guia 5\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
+E:\UDB\Programacion con estructura de datos\Guia 5\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb

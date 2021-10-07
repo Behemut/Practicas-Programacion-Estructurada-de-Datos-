@@ -1,0 +1,48 @@
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia10\Guia10\obj\Debug\Guia10.csprojAssemblyReference.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia10\Guia10\obj\Debug\Guia10.Simulador.resources
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia10\Guia10\obj\Debug\Guia10.Properties.Resources.resources
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia10\Guia10\obj\Debug\Guia10.csproj.GenerateResource.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia10\Guia10\obj\Debug\Guia10.csproj.CoreCompileInputs.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia10\Guia10\bin\Debug\Guia10.exe.config
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia10\Guia10\bin\Debug\Guia10.exe
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia10\Guia10\bin\Debug\Guia10.pdb
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia10\Guia10\obj\Debug\Guia10.exe
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia10\Guia10\obj\Debug\Guia10.pdb
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia10\Guia10\obj\Debug\Guia10.Vertice.resources
+C:\Users\Kelvis\Desktop\Guia10\Guia10\bin\Debug\Guia10.exe.config
+C:\Users\Kelvis\Desktop\Guia10\Guia10\bin\Debug\Guia10.exe
+C:\Users\Kelvis\Desktop\Guia10\Guia10\bin\Debug\Guia10.pdb
+C:\Users\Kelvis\Desktop\Guia10\Guia10\obj\Debug\Guia10.csprojAssemblyReference.cache
+C:\Users\Kelvis\Desktop\Guia10\Guia10\obj\Debug\Guia10.Arco.resources
+C:\Users\Kelvis\Desktop\Guia10\Guia10\obj\Debug\Guia10.Simulador.resources
+C:\Users\Kelvis\Desktop\Guia10\Guia10\obj\Debug\Guia10.Properties.Resources.resources
+C:\Users\Kelvis\Desktop\Guia10\Guia10\obj\Debug\Guia10.Vertice.resources
+C:\Users\Kelvis\Desktop\Guia10\Guia10\obj\Debug\Guia10.csproj.GenerateResource.cache
+C:\Users\Kelvis\Desktop\Guia10\Guia10\obj\Debug\Guia10.csproj.CoreCompileInputs.cache
+C:\Users\Kelvis\Desktop\Guia10\Guia10\obj\Debug\Guia10.exe
+C:\Users\Kelvis\Desktop\Guia10\Guia10\obj\Debug\Guia10.pdb
+C:\Users\Kelvis\Desktop\Guia10 - copia\Guia10\bin\Debug\Guia10.exe.config
+C:\Users\Kelvis\Desktop\Guia10 - copia\Guia10\bin\Debug\Guia10.exe
+C:\Users\Kelvis\Desktop\Guia10 - copia\Guia10\bin\Debug\Guia10.pdb
+C:\Users\Kelvis\Desktop\Guia10 - copia\Guia10\obj\Debug\Guia10.csprojAssemblyReference.cache
+C:\Users\Kelvis\Desktop\Guia10 - copia\Guia10\obj\Debug\Guia10.Arco.resources
+C:\Users\Kelvis\Desktop\Guia10 - copia\Guia10\obj\Debug\Guia10.Simulador.resources
+C:\Users\Kelvis\Desktop\Guia10 - copia\Guia10\obj\Debug\Guia10.Properties.Resources.resources
+C:\Users\Kelvis\Desktop\Guia10 - copia\Guia10\obj\Debug\Guia10.Vertice.resources
+C:\Users\Kelvis\Desktop\Guia10 - copia\Guia10\obj\Debug\Guia10.csproj.GenerateResource.cache
+C:\Users\Kelvis\Desktop\Guia10 - copia\Guia10\obj\Debug\Guia10.csproj.CoreCompileInputs.cache
+C:\Users\Kelvis\Desktop\Guia10 - copia\Guia10\obj\Debug\Guia10.exe
+C:\Users\Kelvis\Desktop\Guia10 - copia\Guia10\obj\Debug\Guia10.pdb
+C:\Users\Kelvis\Desktop\Guia10 - copia\Guia10\obj\Debug\Guia10.frmDistancias.resources
+E:\Guia10 - copia\Guia10\bin\Debug\Guia10.exe.config
+E:\Guia10 - copia\Guia10\bin\Debug\Guia10.exe
+E:\Guia10 - copia\Guia10\bin\Debug\Guia10.pdb
+E:\Guia10 - copia\Guia10\obj\Debug\Guia10.csprojAssemblyReference.cache
+E:\Guia10 - copia\Guia10\obj\Debug\Guia10.Arco.resources
+E:\Guia10 - copia\Guia10\obj\Debug\Guia10.Simulador.resources
+E:\Guia10 - copia\Guia10\obj\Debug\Guia10.Properties.Resources.resources
+E:\Guia10 - copia\Guia10\obj\Debug\Guia10.Vertice.resources
+E:\Guia10 - copia\Guia10\obj\Debug\Guia10.csproj.GenerateResource.cache
+E:\Guia10 - copia\Guia10\obj\Debug\Guia10.csproj.CoreCompileInputs.cache
+E:\Guia10 - copia\Guia10\obj\Debug\Guia10.exe
+E:\Guia10 - copia\Guia10\obj\Debug\Guia10.pdb

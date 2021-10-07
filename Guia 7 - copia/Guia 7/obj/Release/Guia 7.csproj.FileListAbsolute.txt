@@ -1,0 +1,10 @@
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\bin\Release\Guia 7.exe.config
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\bin\Release\Guia 7.exe
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\bin\Release\Guia 7.pdb
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Release\Guia_7.Form1.resources
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Release\Guia_7.Properties.Resources.resources
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Release\Guia 7.csproj.GenerateResource.cache
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Release\Guia 7.csproj.CoreCompileInputs.cache
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Release\Guia 7.exe
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Release\Guia 7.pdb
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Release\Guia 7.csprojAssemblyReference.cache

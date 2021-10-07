@@ -1,0 +1,10 @@
+E:\UDB\Programacion con estructura de datos\Guia 2\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csprojAssemblyReference.cache
+E:\UDB\Programacion con estructura de datos\Guia 2\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Form1.resources
+E:\UDB\Programacion con estructura de datos\Guia 2\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Properties.Resources.resources
+E:\UDB\Programacion con estructura de datos\Guia 2\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.GenerateResource.cache
+E:\UDB\Programacion con estructura de datos\Guia 2\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.CoreCompileInputs.cache
+E:\UDB\Programacion con estructura de datos\Guia 2\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe.config
+E:\UDB\Programacion con estructura de datos\Guia 2\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe
+E:\UDB\Programacion con estructura de datos\Guia 2\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.pdb
+E:\UDB\Programacion con estructura de datos\Guia 2\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.exe
+E:\UDB\Programacion con estructura de datos\Guia 2\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.pdb

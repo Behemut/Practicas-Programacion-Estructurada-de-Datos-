@@ -1,0 +1,10 @@
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejercicio_2_BANCO\Ejercicio_2_BANCO\bin\Debug\Ejercicio_2_BANCO.exe.config
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejercicio_2_BANCO\Ejercicio_2_BANCO\bin\Debug\Ejercicio_2_BANCO.exe
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejercicio_2_BANCO\Ejercicio_2_BANCO\bin\Debug\Ejercicio_2_BANCO.pdb
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejercicio_2_BANCO\Ejercicio_2_BANCO\obj\Debug\Ejercicio_2_BANCO.csprojAssemblyReference.cache
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejercicio_2_BANCO\Ejercicio_2_BANCO\obj\Debug\Ejercicio_2_BANCO.Form1.resources
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejercicio_2_BANCO\Ejercicio_2_BANCO\obj\Debug\Ejercicio_2_BANCO.Properties.Resources.resources
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejercicio_2_BANCO\Ejercicio_2_BANCO\obj\Debug\Ejercicio_2_BANCO.csproj.GenerateResource.cache
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejercicio_2_BANCO\Ejercicio_2_BANCO\obj\Debug\Ejercicio_2_BANCO.csproj.CoreCompileInputs.cache
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejercicio_2_BANCO\Ejercicio_2_BANCO\obj\Debug\Ejercicio_2_BANCO.exe
+F:\UDB\Programacion con estructura de datos\Guia 4\Ejercicio_2_BANCO\Ejercicio_2_BANCO\obj\Debug\Ejercicio_2_BANCO.pdb

@@ -1,0 +1,10 @@
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejercicio_Parentesis\Ejercicio_Parentesis\bin\Debug\Ejercicio_Parentesis.exe.config
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejercicio_Parentesis\Ejercicio_Parentesis\bin\Debug\Ejercicio_Parentesis.exe
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejercicio_Parentesis\Ejercicio_Parentesis\bin\Debug\Ejercicio_Parentesis.pdb
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejercicio_Parentesis\Ejercicio_Parentesis\obj\Debug\Ejercicio_Parentesis.csprojAssemblyReference.cache
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejercicio_Parentesis\Ejercicio_Parentesis\obj\Debug\Ejercicio_Parentesis.Form1.resources
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejercicio_Parentesis\Ejercicio_Parentesis\obj\Debug\Ejercicio_Parentesis.Properties.Resources.resources
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejercicio_Parentesis\Ejercicio_Parentesis\obj\Debug\Ejercicio_Parentesis.csproj.GenerateResource.cache
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejercicio_Parentesis\Ejercicio_Parentesis\obj\Debug\Ejercicio_Parentesis.csproj.CoreCompileInputs.cache
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejercicio_Parentesis\Ejercicio_Parentesis\obj\Debug\Ejercicio_Parentesis.exe
+F:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 5\Ejercicio_Parentesis\Ejercicio_Parentesis\obj\Debug\Ejercicio_Parentesis.pdb

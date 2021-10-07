@@ -1,0 +1,10 @@
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 9\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe.config
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 9\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 9\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.pdb
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 9\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csprojAssemblyReference.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 9\Ejemplo_1\Ejemplo_1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 9\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Properties.Resources.resources
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 9\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.GenerateResource.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 9\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.CoreCompileInputs.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 9\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.exe
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 9\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.pdb

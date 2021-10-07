@@ -1,0 +1,20 @@
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 7\Guia 7\bin\Debug\Guia 7.exe.config
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 7\Guia 7\bin\Debug\Guia 7.exe
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 7\Guia 7\bin\Debug\Guia 7.pdb
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 7\Guia 7\obj\Debug\Guia 7.csprojAssemblyReference.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 7\Guia 7\obj\Debug\Guia_7.Form1.resources
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 7\Guia 7\obj\Debug\Guia_7.Properties.Resources.resources
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 7\Guia 7\obj\Debug\Guia 7.csproj.GenerateResource.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 7\Guia 7\obj\Debug\Guia 7.csproj.CoreCompileInputs.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 7\Guia 7\obj\Debug\Guia 7.exe
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 7\Guia 7\obj\Debug\Guia 7.pdb
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\bin\Debug\Guia 7.exe.config
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\bin\Debug\Guia 7.exe
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\bin\Debug\Guia 7.pdb
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Debug\Guia 7.csprojAssemblyReference.cache
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Debug\Guia_7.Form1.resources
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Debug\Guia_7.Properties.Resources.resources
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Debug\Guia 7.csproj.GenerateResource.cache
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Debug\Guia 7.csproj.CoreCompileInputs.cache
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Debug\Guia 7.exe
+C:\Users\Kelvis\Desktop\Guia 7 - copia\Guia 7\obj\Debug\Guia 7.pdb

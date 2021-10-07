@@ -1,0 +1,7 @@
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\bin\Debug\Nodo.exe.config
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\bin\Debug\Nodo.exe
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\bin\Debug\Nodo.pdb
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\obj\Debug\Nodo.csprojAssemblyReference.cache
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\obj\Debug\Nodo.csproj.CoreCompileInputs.cache
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\obj\Debug\Nodo.exe
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\obj\Debug\Nodo.pdb

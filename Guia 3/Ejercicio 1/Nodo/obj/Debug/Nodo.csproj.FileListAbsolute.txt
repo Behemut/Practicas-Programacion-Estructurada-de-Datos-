@@ -1,0 +1,22 @@
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\bin\Debug\Nodo.exe.config
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\bin\Debug\Nodo.exe
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\bin\Debug\Nodo.pdb
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\obj\Debug\Nodo.csprojAssemblyReference.cache
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\obj\Debug\Nodo.csproj.CoreCompileInputs.cache
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\obj\Debug\Nodo.exe
+E:\UDB\Programacion con estructura de datos\Guia 3\Nodo\Nodo\obj\Debug\Nodo.pdb
+E:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\bin\Debug\Nodo.exe.config
+E:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\bin\Debug\Nodo.exe
+E:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\bin\Debug\Nodo.pdb
+E:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\obj\Debug\Nodo.csprojAssemblyReference.cache
+E:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\obj\Debug\Nodo.csproj.CoreCompileInputs.cache
+E:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\obj\Debug\Nodo.exe
+E:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\obj\Debug\Nodo.pdb
+F:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\bin\Debug\Nodo.exe.config
+F:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\obj\Debug\Nodo.exe
+F:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\obj\Debug\Nodo.pdb
+F:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\bin\Debug\Nodo.exe
+F:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\bin\Debug\Nodo.pdb
+F:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\obj\Debug\Nodo.csprojResolveAssemblyReference.cache
+F:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\obj\Debug\Nodo.csprojAssemblyReference.cache
+F:\UDB\Programacion con estructura de datos\Guia 3\Ejercicio 1\Nodo\obj\Debug\Nodo.csproj.CoreCompileInputs.cache

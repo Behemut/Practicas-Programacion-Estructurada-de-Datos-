@@ -1,0 +1,61 @@
+C:\Users\LENOVO\Documents\2019\PED\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe.config
+C:\Users\LENOVO\Documents\2019\PED\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe
+C:\Users\LENOVO\Documents\2019\PED\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.pdb
+C:\Users\LENOVO\Documents\2019\PED\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\2019\PED\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Form1.resources
+C:\Users\LENOVO\Documents\2019\PED\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Properties.Resources.resources
+C:\Users\LENOVO\Documents\2019\PED\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\2019\PED\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\2019\PED\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.exe
+C:\Users\LENOVO\Documents\2019\PED\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.pdb
+E:\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe.config
+E:\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe
+E:\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.pdb
+E:\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csprojAssemblyReference.cache
+E:\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Form1.resources
+E:\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Properties.Resources.resources
+E:\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.GenerateResource.cache
+E:\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.CoreCompileInputs.cache
+E:\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.exe
+E:\GUIAS\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.pdb
+C:\Users\Rock Rocas\Desktop\Guia_6_PED\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe.config
+C:\Users\Rock Rocas\Desktop\Guia_6_PED\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe
+C:\Users\Rock Rocas\Desktop\Guia_6_PED\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.pdb
+C:\Users\Rock Rocas\Desktop\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csprojAssemblyReference.cache
+C:\Users\Rock Rocas\Desktop\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Form1.resources
+C:\Users\Rock Rocas\Desktop\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Properties.Resources.resources
+C:\Users\Rock Rocas\Desktop\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.GenerateResource.cache
+C:\Users\Rock Rocas\Desktop\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.CoreCompileInputs.cache
+C:\Users\Rock Rocas\Desktop\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.exe
+C:\Users\Rock Rocas\Desktop\Guia_6_PED\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.pdb
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe.config
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.pdb
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csprojAssemblyReference.cache
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Properties.Resources.resources
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.GenerateResource.cache
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.CoreCompileInputs.cache
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.exe
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.pdb
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.btnPreOrden.resources
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED -\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.frm_Arbol_binario.resources
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csprojAssemblyReference.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Properties.Resources.resources
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.GenerateResource.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.CoreCompileInputs.cache
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.exe
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.pdb
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe.config
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.pdb
+D:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Form1.resources
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe.config
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.exe
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\bin\Debug\Ejemplo_1.pdb
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csprojAssemblyReference.cache
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Form1.resources
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.Properties.Resources.resources
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.GenerateResource.cache
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.csproj.CoreCompileInputs.cache
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.exe
+E:\UDB\PROGRAMACION ESTRUCTURADA DE DATOS\Guia 6\Guia_6_PED-DESAFIO-KevinPleitez-GerardoLoucel\Ejemplo_1\Ejemplo_1\obj\Debug\Ejemplo_1.pdb
